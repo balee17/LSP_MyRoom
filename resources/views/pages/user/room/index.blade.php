@@ -1,6 +1,6 @@
 @extends('layouts.main')
 
-@section('title', 'Data Ruangan - ROOMING')
+@section('title', 'Data Ruangan - My Room')
 
 @section('header-title', 'Data Ruangan')
     

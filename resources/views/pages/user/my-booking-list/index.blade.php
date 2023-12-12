@@ -1,6 +1,6 @@
 @extends('layouts.main')
 
-@section('title', 'My Booking List - ROOMING')
+@section('title', 'My Booking List - My Room')
 
 @section('header-title', 'My Booking List')
     

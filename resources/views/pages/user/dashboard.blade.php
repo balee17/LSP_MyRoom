@@ -1,6 +1,6 @@
 @extends('layouts.main')
 
-@section('title', 'Dashboard - ROOMING')
+@section('title', 'Dashboard - My Room')
 
 @section('header-title', 'Dashboard')
 

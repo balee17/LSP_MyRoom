@@ -1,7 +1,7 @@
 @extends('layouts.main')
 
 @section('title')
-  Buat Booking - ROOMING
+  Buat Booking - My Room
 @endsection 
 
 @section('header-title')

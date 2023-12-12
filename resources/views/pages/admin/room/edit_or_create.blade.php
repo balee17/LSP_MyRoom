@@ -2,9 +2,9 @@
 
 @section('title')
   @if(isset($item))
-    Edit Data Ruangan - ROOMING
+    Edit Data Ruangan - My Room
   @else 
-    Tambah Data Ruangan - ROOMING
+    Tambah Data Ruangan - My Room
   @endif
 @endsection 
 

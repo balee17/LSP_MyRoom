@@ -1,3 +1,45 @@
+------- My Project -------
+1. Afraayin Faiq Nabiil_1202200317_SI-44-02
+2. Iqbal Maulana Harahap_1202204146_SI-44-01
+
+Nama Project : MyRoom
+
+--- LIST FITUR ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## ROOMING (Room Booking)
 
 Aplikasi booking ruangan sederhana

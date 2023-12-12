@@ -1,6 +1,6 @@
 @extends('layouts.main')
 
-@section('title', 'Data Ruangan - ROOMING')
+@section('title', 'Data Ruangan - My Room')
 
 @section('header-title', 'Data Ruangan')
     
@@ -64,7 +64,7 @@
           if(data != null) {
             return `<div class="gallery gallery-fw">`
               + `<a href="{{ asset('storage/${data}') }}" data-toggle="lightbox">`
-                + `<img src="{{ asset('storage/${data}') }}" class="img-fluid" style="min-width: 80px; height: auto;">`
+                `<img src="{{ asset('storage/${data}') }}" class="img-fluid" style="min-width: 80px; height: auto;">`
               + `</a>`
             + '</div>';
           } else {

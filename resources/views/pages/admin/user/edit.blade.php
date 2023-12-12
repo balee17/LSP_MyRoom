@@ -1,7 +1,7 @@
 @extends('layouts.main')
 
 @section('title')
-    Edit Data User - ROOMING
+    Edit Data User - My Room
 @endsection 
 
 @section('header-title')
